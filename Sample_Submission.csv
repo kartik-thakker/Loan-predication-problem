@@ -1,0 +1,615 @@
+,Gender,Married,Dependents,Education,Self_Employed,Credit_History,Property_Area,Loan_Status,Income_bin,Coapplicant_Income_bin
+0,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,High,0
+1,1.0,1.0,1,Graduate,0.0,1.0,Rural,0,High,Average
+2,1.0,1.0,0,Graduate,1.0,1.0,Urban,1,Average,0
+3,1.0,1.0,0,Not Graduate,0.0,1.0,Urban,1,Average,Average
+4,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,High,0
+5,1.0,1.0,2,Graduate,1.0,1.0,Urban,1,High,High
+6,1.0,1.0,0,Not Graduate,0.0,1.0,Urban,1,Low,Average
+7,1.0,1.0,3+,Graduate,0.0,0.0,Semiurban,0,Average,Average
+8,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,High,Average
+9,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,0,Very high,High
+10,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Average,Low
+11,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Low,Average
+12,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Average,High
+13,1.0,0.0,0,Graduate,0.0,1.0,Rural,0,Low,Average
+14,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Low,Average
+15,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,High,0
+16,1.0,0.0,1,Not Graduate,0.0,0.0,Urban,1,Average,0
+17,0.0,0.0,0,Graduate,0.0,0.0,Urban,0,Average,0
+18,1.0,1.0,0,Not Graduate,0.0,1.0,Rural,0,High,0
+19,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Average,High
+20,1.0,1.0,0,Not Graduate,0.0,0.0,Urban,0,Very high,0
+21,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,High,High
+22,1.0,1.0,0,Not Graduate,0.0,0.0,Semiurban,0,Average,Average
+23,1.0,1.0,2,Not Graduate,0.0,0.0,Rural,0,Average,Average
+24,1.0,1.0,1,Graduate,0.0,0.0,Semiurban,0,Average,Average
+25,1.0,1.0,0,Graduate,1.0,1.0,Semiurban,1,Very high,0
+26,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+27,1.0,1.0,2,Not Graduate,0.0,1.0,Urban,1,High,Average
+28,1.0,0.0,0,Not Graduate,0.0,1.0,Urban,0,Low,0
+29,0.0,0.0,2,Graduate,0.0,1.0,Semiurban,1,Average,Average
+30,1.0,1.0,1,Graduate,0.0,0.0,Urban,0,High,High
+31,1.0,0.0,0,Graduate,0.0,1.0,Urban,0,Average,0
+32,1.0,0.0,1,Graduate,1.0,1.0,Rural,0,High,0
+33,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+34,1.0,0.0,3+,Graduate,0.0,1.0,Rural,0,Very high,Average
+35,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Low,Average
+36,1.0,1.0,0,Graduate,0.0,0.0,Urban,0,Low,Average
+37,0.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+38,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,High,High
+39,1.0,0.0,0,Not Graduate,0.0,1.0,Semiurban,1,Average,Average
+40,1.0,0.0,0,Graduate,0.0,1.0,Urban,0,Average,0
+41,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Low,Average
+42,1.0,1.0,0,Graduate,0.0,0.0,Urban,1,Low,0
+43,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+44,1.0,1.0,0,Not Graduate,1.0,1.0,Urban,1,High,0
+45,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,0
+46,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,High,0
+47,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,High,0
+48,0.0,1.0,0,Graduate,0.0,0.0,Urban,0,Average,High
+49,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+50,0.0,1.0,0,Not Graduate,0.0,1.0,Semiurban,1,Low,Average
+51,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+52,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,0,High,0
+53,1.0,1.0,2,Graduate,0.0,1.0,Urban,0,High,0
+54,0.0,1.0,1,Graduate,1.0,0.0,Urban,0,Very high,0
+55,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Average,Average
+56,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Average
+57,1.0,1.0,0,Graduate,0.0,1.0,Rural,0,Average,Average
+58,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Very high,Average
+59,1.0,1.0,2,Not Graduate,0.0,1.0,Urban,1,Average,Average
+60,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Low,High
+61,1.0,1.0,3+,Graduate,0.0,1.0,Urban,1,Average,0
+62,1.0,1.0,0,Not Graduate,1.0,0.0,Rural,0,Average,High
+63,1.0,1.0,1,Graduate,0.0,0.0,Rural,0,High,0
+64,0.0,0.0,0,Graduate,0.0,0.0,Semiurban,0,High,0
+65,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,0,High,High
+66,1.0,0.0,0,Not Graduate,0.0,0.0,Urban,0,Average,Average
+67,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Very high,0
+68,1.0,1.0,3+,Not Graduate,1.0,1.0,Urban,1,Very high,0
+69,0.0,0.0,0,Graduate,0.0,0.0,Semiurban,0,High,0
+70,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Average,High
+71,1.0,1.0,2,Not Graduate,1.0,1.0,Semiurban,1,Low,Average
+72,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+73,1.0,1.0,3+,Not Graduate,0.0,0.0,Semiurban,0,High,0
+74,1.0,1.0,3+,Graduate,1.0,1.0,Semiurban,1,High,Average
+75,1.0,0.0,0,Graduate,0.0,1.0,Urban,0,Average,0
+76,1.0,0.0,0,Graduate,0.0,1.0,Urban,0,Average,High
+77,1.0,1.0,1,Graduate,1.0,1.0,Urban,0,Low,High
+78,1.0,1.0,3+,Graduate,0.0,0.0,Semiurban,0,Average,High
+79,1.0,1.0,3+,Not Graduate,1.0,0.0,Semiurban,1,Average,Average
+80,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+81,1.0,1.0,1,Graduate,1.0,1.0,Semiurban,1,Low,0
+82,0.0,1.0,2,Graduate,0.0,1.0,Urban,0,Low,Average
+83,1.0,1.0,0,Graduate,0.0,0.0,Semiurban,0,High,Average
+84,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Average,0
+85,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Average
+86,1.0,1.0,2,Not Graduate,0.0,0.0,Semiurban,1,Average,Average
+87,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Average
+88,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Very high,0
+89,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,High,High
+90,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+91,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Very high,High
+92,1.0,1.0,2,Not Graduate,0.0,1.0,Urban,1,Average,Average
+93,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+94,1.0,0.0,0,Not Graduate,0.0,1.0,Semiurban,1,Average,0
+95,1.0,0.0,0,Graduate,0.0,0.0,Urban,0,Very high,0
+96,0.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Average
+97,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Low
+98,1.0,1.0,0,Not Graduate,0.0,1.0,Semiurban,1,High,0
+99,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,High
+100,1.0,1.0,2,Not Graduate,0.0,1.0,Urban,1,High,High
+101,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,High
+102,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Very high,0
+103,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,High,High
+104,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,Low
+105,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Average,Average
+106,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Very high,Average
+107,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,0,Very high,0
+108,1.0,1.0,2,Graduate,0.0,0.0,Urban,0,Average,High
+109,1.0,1.0,3+,Not Graduate,0.0,1.0,Semiurban,1,Low,Low
+110,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,High,0
+111,0.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+112,1.0,1.0,0,Not Graduate,0.0,0.0,Rural,0,Average,High
+113,0.0,0.0,1,Graduate,1.0,1.0,Semiurban,1,Very high,0
+114,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+115,1.0,1.0,1,Graduate,0.0,1.0,Rural,1,Very high,0
+116,0.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+117,1.0,1.0,1,Graduate,0.0,0.0,Urban,1,Low,Average
+118,1.0,1.0,0,Graduate,0.0,1.0,Rural,0,High,Average
+119,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,Very high,0
+120,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,High,Average
+121,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+122,0.0,0.0,0,Graduate,0.0,0.0,Semiurban,1,Low,High
+123,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Average,0
+124,1.0,1.0,0,Not Graduate,0.0,1.0,Rural,1,High,Average
+125,0.0,0.0,0,Graduate,0.0,0.0,Rural,1,Average,0
+126,1.0,1.0,3+,Graduate,0.0,1.0,Rural,1,Very high,0
+127,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+128,1.0,1.0,1,Graduate,1.0,0.0,Urban,0,Very high,High
+129,1.0,1.0,0,Graduate,0.0,0.0,Rural,0,Very high,Average
+130,1.0,0.0,0,Graduate,1.0,0.0,Urban,1,Very high,0
+131,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Low,Average
+132,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+133,1.0,1.0,0,Graduate,1.0,1.0,Semiurban,1,Average,0
+134,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+135,1.0,1.0,3+,Graduate,0.0,1.0,Semiurban,0,Average,High
+136,0.0,1.0,0,Graduate,0.0,1.0,Rural,0,High,0
+137,1.0,1.0,2,Graduate,1.0,1.0,Urban,1,Average,High
+138,1.0,0.0,0,Graduate,0.0,0.0,Semiurban,0,Very high,0
+139,1.0,1.0,2,Not Graduate,0.0,1.0,Rural,0,High,Average
+140,1.0,1.0,2,Graduate,0.0,1.0,Rural,0,High,Average
+141,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,High,0
+142,1.0,0.0,0,Graduate,1.0,1.0,Semiurban,1,Very high,0
+143,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+144,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Very high,0
+145,0.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,High
+146,0.0,1.0,2,Graduate,0.0,1.0,Urban,1,Very high,0
+147,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Low,Average
+148,0.0,0.0,0,Graduate,0.0,1.0,Rural,0,Very high,Average
+149,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,High,Low
+150,1.0,0.0,0,Graduate,0.0,0.0,Rural,0,Very high,0
+151,1.0,1.0,0,Graduate,1.0,1.0,Rural,1,Average,High
+152,1.0,0.0,0,Graduate,0.0,1.0,Urban,0,Very high,0
+153,1.0,1.0,2,Not Graduate,0.0,1.0,Rural,0,Low,0
+154,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,0
+155,1.0,1.0,3+,Graduate,0.0,0.0,Semiurban,1,Very high,0
+156,1.0,1.0,1,Graduate,0.0,0.0,Rural,1,High,0
+157,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Very high,0
+158,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+159,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,High,High
+160,1.0,1.0,0,Not Graduate,0.0,1.0,Semiurban,1,Low,Average
+161,1.0,1.0,0,Graduate,0.0,1.0,Urban,0,Very high,0
+162,1.0,1.0,1,Graduate,0.0,0.0,Semiurban,0,Average,Average
+163,1.0,1.0,2,Graduate,0.0,1.0,Rural,1,High,Average
+164,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Very high,0
+165,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,High
+166,0.0,1.0,0,Graduate,0.0,1.0,Rural,0,High,0
+167,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Low,High
+168,1.0,0.0,0,Graduate,0.0,0.0,Semiurban,0,Low,0
+169,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Very high,0
+170,1.0,1.0,0,Not Graduate,0.0,1.0,Rural,1,Low,Average
+171,1.0,1.0,3+,Graduate,0.0,1.0,Urban,1,Very high,0
+172,1.0,1.0,3+,Not Graduate,0.0,1.0,Rural,0,Average,0
+173,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,High,High
+174,1.0,1.0,0,Not Graduate,1.0,1.0,Semiurban,0,High,Low
+175,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+176,1.0,1.0,2,Graduate,0.0,1.0,Rural,1,Low,Average
+177,1.0,1.0,3+,Graduate,0.0,0.0,Semiurban,0,High,High
+178,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Average,0
+179,1.0,0.0,0,Not Graduate,0.0,0.0,Urban,0,Low,Average
+180,1.0,1.0,1,Graduate,0.0,0.0,Urban,0,Very high,High
+181,1.0,0.0,0,Graduate,0.0,0.0,Rural,0,Low,High
+182,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+183,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,0,Very high,0
+184,0.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+185,1.0,1.0,0,Graduate,1.0,1.0,Semiurban,1,Very high,High
+186,1.0,1.0,1,Graduate,1.0,0.0,Rural,0,Low,0
+187,1.0,1.0,0,Graduate,0.0,0.0,Rural,1,Low,Average
+188,1.0,1.0,0,Graduate,1.0,1.0,Rural,1,Low,High
+189,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Very high,0
+190,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,1,High,0
+191,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,0,Very high,0
+192,1.0,1.0,0,Not Graduate,0.0,1.0,Urban,0,Very high,0
+193,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+194,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,High,0
+195,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,0,Average,Average
+196,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,Very high,High
+197,0.0,0.0,0,Not Graduate,0.0,1.0,Urban,1,Low,Average
+198,0.0,1.0,0,Graduate,0.0,0.0,Semiurban,1,Average,Average
+199,1.0,0.0,0,Graduate,1.0,1.0,Urban,0,Very high,0
+200,1.0,1.0,1,Not Graduate,0.0,1.0,Semiurban,1,Average,Average
+201,1.0,0.0,2,Graduate,0.0,0.0,Semiurban,1,High,0
+202,1.0,1.0,3+,Not Graduate,0.0,1.0,Urban,0,Average,0
+203,1.0,1.0,1,Not Graduate,0.0,1.0,Urban,1,Average,Average
+204,1.0,1.0,2,Not Graduate,0.0,1.0,Semiurban,1,Average,0
+205,0.0,0.0,0,Not Graduate,0.0,1.0,Semiurban,1,High,0
+206,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,0
+207,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,1,Average,Average
+208,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Low,0
+209,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,0,Average,0
+210,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,0,Very high,0
+211,1.0,1.0,3+,Graduate,0.0,0.0,Semiurban,0,Average,Average
+212,1.0,1.0,1,Graduate,1.0,1.0,Urban,1,Very high,0
+213,1.0,1.0,3+,Not Graduate,1.0,1.0,Rural,1,High,0
+214,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Average,High
+215,1.0,1.0,3+,Not Graduate,0.0,1.0,Semiurban,1,Average,Low
+216,1.0,1.0,0,Graduate,0.0,1.0,Rural,0,Low,Average
+217,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+218,1.0,1.0,2,Graduate,0.0,0.0,Semiurban,0,High,0
+219,0.0,1.0,2,Graduate,0.0,0.0,Semiurban,1,High,Average
+220,1.0,1.0,0,Graduate,0.0,0.0,Urban,0,Low,0
+221,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,High,Average
+222,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+223,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,Average
+224,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,0
+225,1.0,1.0,0,Graduate,0.0,1.0,Rural,0,Average,0
+226,1.0,1.0,0,Not Graduate,1.0,1.0,Urban,0,High,0
+227,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Very high,Average
+228,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+229,1.0,0.0,0,Graduate,1.0,1.0,Rural,1,Very high,0
+230,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Low,Average
+231,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,0
+232,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,1,Average,Average
+233,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,0
+234,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Average,Average
+235,1.0,1.0,1,Graduate,0.0,1.0,Rural,1,High,Average
+236,1.0,1.0,0,Graduate,0.0,0.0,Urban,0,High,0
+237,0.0,0.0,0,Graduate,1.0,0.0,Urban,1,Average,0
+238,0.0,0.0,1,Graduate,0.0,1.0,Rural,1,Average,0
+239,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Average,0
+240,1.0,1.0,2,Graduate,0.0,1.0,Rural,1,High,High
+241,1.0,1.0,1,Not Graduate,0.0,1.0,Urban,0,Average,Average
+242,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,High
+243,1.0,1.0,2,Graduate,1.0,1.0,Rural,1,Very high,Average
+244,1.0,1.0,0,Not Graduate,0.0,1.0,Semiurban,1,Average,High
+245,1.0,0.0,0,Graduate,1.0,1.0,Urban,0,Very high,High
+246,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Very high,0
+247,1.0,1.0,1,Not Graduate,0.0,1.0,Urban,1,Very high,0
+248,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Average,Average
+249,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Low,Average
+250,1.0,1.0,0,Not Graduate,0.0,0.0,Semiurban,0,Low,High
+251,0.0,0.0,2,Graduate,0.0,1.0,Urban,0,Average,0
+252,1.0,0.0,0,Not Graduate,1.0,1.0,Rural,1,Average,Average
+253,1.0,1.0,1,Not Graduate,0.0,1.0,Semiurban,1,Average,High
+254,1.0,0.0,0,Graduate,1.0,0.0,Urban,0,Very high,0
+255,0.0,0.0,3+,Graduate,0.0,1.0,Rural,1,Average,0
+256,1.0,0.0,0,Not Graduate,0.0,0.0,Rural,0,Very high,0
+257,1.0,1.0,3+,Graduate,0.0,1.0,Urban,0,High,0
+258,1.0,1.0,0,Graduate,0.0,1.0,Rural,0,Very high,Average
+259,1.0,1.0,3+,Not Graduate,0.0,0.0,Semiurban,0,High,0
+260,1.0,1.0,1,Graduate,0.0,0.0,Urban,1,Very high,High
+261,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Average
+262,0.0,0.0,1,Graduate,0.0,1.0,Semiurban,0,Average,0
+263,0.0,0.0,0,Graduate,0.0,1.0,Rural,1,Very high,0
+264,1.0,0.0,0,Graduate,1.0,1.0,Semiurban,1,High,0
+265,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,High,High
+266,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,High,Average
+267,1.0,1.0,3+,Graduate,0.0,0.0,Urban,1,High,Average
+268,0.0,0.0,0,Graduate,0.0,1.0,Rural,0,Average,0
+269,0.0,0.0,1,Graduate,0.0,1.0,Urban,1,Average,Average
+270,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,0
+271,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Very high,0
+272,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+273,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+274,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Average,0
+275,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Average,Average
+276,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,High
+277,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Average,Average
+278,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,0
+279,0.0,1.0,0,Not Graduate,0.0,0.0,Rural,1,High,0
+280,1.0,0.0,1,Not Graduate,1.0,0.0,Urban,0,High,Average
+281,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Low
+282,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Low,Low
+283,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,Low,Average
+284,1.0,1.0,0,Graduate,0.0,1.0,Rural,0,Very high,0
+285,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,High
+286,0.0,0.0,0,Graduate,1.0,1.0,Semiurban,0,Average,Average
+287,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+288,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+289,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,Very high,0
+290,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+291,1.0,1.0,2,Graduate,0.0,0.0,Semiurban,0,High,0
+292,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Average,Average
+293,0.0,0.0,0,Graduate,0.0,0.0,Urban,0,High,0
+294,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,High
+295,1.0,1.0,3+,Graduate,0.0,1.0,Urban,1,High,Average
+296,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Very high,0
+297,0.0,1.0,1,Graduate,0.0,1.0,Urban,1,High,0
+298,0.0,0.0,0,Graduate,0.0,1.0,Rural,0,High,Average
+299,1.0,1.0,1,Graduate,0.0,1.0,Urban,0,Low,Average
+300,1.0,1.0,0,Not Graduate,0.0,0.0,Urban,0,Low,Average
+301,1.0,1.0,0,Not Graduate,0.0,1.0,Semiurban,1,Average,Average
+302,0.0,0.0,0,Graduate,0.0,1.0,Rural,1,High,0
+303,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Low,Average
+304,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+305,1.0,0.0,0,Not Graduate,0.0,1.0,Urban,0,Low,0
+306,0.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+307,0.0,0.0,0,Graduate,0.0,0.0,Urban,0,Low,Average
+308,1.0,0.0,0,Graduate,0.0,1.0,Rural,0,Very high,0
+309,1.0,1.0,2,Not Graduate,0.0,0.0,Rural,1,Very high,0
+310,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+311,1.0,0.0,0,Not Graduate,0.0,1.0,Semiurban,1,Average,Average
+312,0.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,0
+313,1.0,1.0,2,Graduate,1.0,0.0,Rural,1,High,0
+314,1.0,1.0,0,Graduate,0.0,1.0,Rural,0,Low,Average
+315,1.0,1.0,1,Not Graduate,0.0,1.0,Urban,1,Average,Average
+316,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Average,0
+317,1.0,1.0,0,Graduate,0.0,0.0,Urban,1,Low,Average
+318,0.0,0.0,1,Graduate,0.0,0.0,Semiurban,1,Average,0
+319,1.0,1.0,1,Graduate,1.0,1.0,Rural,0,Very high,0
+320,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Average
+321,1.0,1.0,3+,Graduate,0.0,1.0,Semiurban,1,High,Low
+322,1.0,1.0,2,Not Graduate,0.0,1.0,Rural,1,Average,Average
+323,0.0,0.0,0,Graduate,0.0,0.0,Rural,1,Average,Average
+324,1.0,1.0,3+,Graduate,0.0,1.0,Rural,1,Very high,0
+325,1.0,1.0,1,Graduate,1.0,0.0,Rural,0,Very high,High
+326,1.0,0.0,0,Graduate,0.0,0.0,Rural,1,High,0
+327,1.0,1.0,0,Graduate,1.0,1.0,Semiurban,1,High,Average
+328,0.0,1.0,0,Graduate,0.0,1.0,Urban,0,High,Average
+329,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,Low,0
+330,1.0,0.0,1,Graduate,0.0,1.0,Urban,1,High,Average
+331,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+332,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,0
+333,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Very high,0
+334,1.0,1.0,1,Graduate,1.0,1.0,Urban,1,Very high,Average
+335,1.0,1.0,0,Graduate,1.0,1.0,Semiurban,1,High,High
+336,1.0,1.0,1,Graduate,0.0,1.0,Rural,1,High,Low
+337,1.0,1.0,2,Graduate,1.0,1.0,Rural,1,Low,High
+338,0.0,0.0,3+,Not Graduate,0.0,0.0,Urban,0,Low,0
+339,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+340,1.0,1.0,3+,Not Graduate,0.0,1.0,Rural,0,Average,Average
+341,0.0,0.0,0,Graduate,0.0,1.0,Rural,0,Low,0
+342,1.0,1.0,1,Not Graduate,0.0,1.0,Urban,1,High,Average
+343,1.0,1.0,3+,Not Graduate,0.0,1.0,Semiurban,1,Average,0
+344,1.0,1.0,2,Graduate,0.0,1.0,Rural,1,Average,Average
+345,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Average
+346,1.0,1.0,0,Not Graduate,0.0,0.0,Rural,0,Average,High
+347,1.0,1.0,2,Not Graduate,0.0,1.0,Urban,1,Average,Average
+348,1.0,1.0,0,Graduate,0.0,0.0,Semiurban,1,Very high,High
+349,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,High
+350,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,0
+351,1.0,0.0,0,Graduate,0.0,1.0,Rural,0,Very high,High
+352,1.0,1.0,3+,Graduate,0.0,1.0,Rural,1,Average,Average
+353,0.0,1.0,0,Graduate,1.0,0.0,Rural,0,High,0
+354,0.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Low
+355,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,0
+356,1.0,1.0,2,Graduate,0.0,1.0,Rural,1,Very high,High
+357,1.0,1.0,1,Graduate,0.0,1.0,Urban,0,Average,0
+358,1.0,1.0,0,Not Graduate,0.0,0.0,Urban,0,Average,Average
+359,1.0,1.0,3+,Graduate,0.0,1.0,Semiurban,1,High,High
+360,0.0,0.0,1,Graduate,0.0,1.0,Semiurban,0,High,0
+361,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,High,High
+362,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,High,Average
+363,1.0,1.0,0,Graduate,0.0,0.0,Urban,1,Average,High
+364,1.0,0.0,0,Graduate,1.0,1.0,Rural,1,Very high,0
+365,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,0,Very high,0
+366,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,0,Low,0
+367,1.0,0.0,0,Graduate,0.0,0.0,Rural,0,High,0
+368,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Very high,0
+369,1.0,1.0,0,Graduate,0.0,1.0,Rural,0,Very high,High
+370,0.0,0.0,0,Graduate,1.0,1.0,Semiurban,1,Very high,0
+371,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,High,0
+372,1.0,1.0,2,Graduate,1.0,1.0,Rural,1,Very high,High
+373,1.0,0.0,1,Graduate,0.0,0.0,Urban,0,Average,Average
+374,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,Average
+375,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,High,Low
+376,1.0,1.0,3+,Graduate,0.0,1.0,Rural,1,Very high,High
+377,1.0,1.0,0,Graduate,0.0,0.0,Semiurban,1,High,0
+378,1.0,0.0,0,Graduate,0.0,1.0,Urban,0,Average,0
+379,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,High,0
+380,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+381,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,High
+382,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,High,0
+383,1.0,0.0,0,Graduate,1.0,1.0,Urban,1,Very high,0
+384,1.0,1.0,2,Graduate,0.0,1.0,Urban,0,High,0
+385,1.0,0.0,1,Graduate,0.0,1.0,Urban,1,Average,0
+386,1.0,0.0,0,Not Graduate,0.0,1.0,Semiurban,1,Low,Average
+387,1.0,1.0,0,Not Graduate,0.0,0.0,Urban,0,Average,High
+388,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Low,Average
+389,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,High,0
+390,1.0,0.0,3+,Graduate,0.0,1.0,Rural,1,Very high,0
+391,1.0,1.0,3+,Graduate,0.0,1.0,Rural,1,Very high,0
+392,1.0,1.0,0,Graduate,0.0,0.0,Urban,1,Average,Average
+393,1.0,1.0,2,Not Graduate,0.0,1.0,Semiurban,1,Low,Average
+394,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Average,Average
+395,1.0,1.0,2,Graduate,0.0,0.0,Semiurban,1,Average,Low
+396,0.0,0.0,0,Graduate,0.0,0.0,Urban,0,Average,0
+397,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Average,Average
+398,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,1,Average,Average
+399,0.0,0.0,0,Graduate,0.0,0.0,Semiurban,0,Low,Average
+400,1.0,1.0,2,Not Graduate,0.0,0.0,Urban,0,Average,0
+401,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,0,Average,0
+402,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Low,High
+403,0.0,0.0,0,Not Graduate,0.0,1.0,Semiurban,1,Low,0
+404,0.0,0.0,0,Graduate,1.0,1.0,Rural,0,Very high,0
+405,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+406,1.0,1.0,0,Not Graduate,0.0,1.0,Urban,1,Low,Average
+407,0.0,0.0,0,Not Graduate,0.0,1.0,Rural,1,Low,0
+408,1.0,1.0,1,Graduate,0.0,0.0,Semiurban,0,Very high,0
+409,1.0,1.0,3+,Graduate,0.0,0.0,Rural,0,Very high,0
+410,0.0,0.0,1,Not Graduate,1.0,1.0,Semiurban,0,Average,0
+411,1.0,1.0,0,Graduate,0.0,0.0,Urban,1,Very high,0
+412,1.0,1.0,0,Not Graduate,0.0,0.0,Rural,0,Very high,0
+413,1.0,1.0,0,Not Graduate,0.0,1.0,Rural,1,Low,Average
+414,0.0,1.0,0,Not Graduate,0.0,0.0,Semiurban,0,Low,High
+415,0.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,0
+416,0.0,0.0,1,Graduate,0.0,1.0,Urban,0,Average,0
+417,1.0,1.0,2,Graduate,1.0,1.0,Urban,0,Low,High
+418,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Low,Average
+419,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+420,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,High,0
+421,0.0,0.0,0,Not Graduate,0.0,0.0,Urban,0,Average,0
+422,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Low,Average
+423,1.0,1.0,1,Graduate,0.0,0.0,Urban,0,Very high,Average
+424,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,0
+425,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,High
+426,0.0,0.0,1,Not Graduate,0.0,1.0,Rural,0,High,0
+427,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,High,0
+428,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,Low
+429,1.0,0.0,0,Not Graduate,0.0,1.0,Urban,1,Average,0
+430,0.0,0.0,1,Graduate,1.0,1.0,Semiurban,1,Very high,0
+431,1.0,0.0,0,Graduate,0.0,0.0,Rural,0,Very high,0
+432,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,0
+433,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Average
+434,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,0
+435,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,0
+436,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Low,Average
+437,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Low,Average
+438,1.0,0.0,0,Graduate,1.0,0.0,Urban,0,Very high,0
+439,0.0,1.0,0,Not Graduate,1.0,1.0,Rural,1,Very high,0
+440,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,High
+441,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Very high,Average
+442,1.0,0.0,3+,Not Graduate,0.0,1.0,Semiurban,1,High,Average
+443,1.0,0.0,1,Graduate,0.0,1.0,Semiurban,1,Very high,0
+444,1.0,1.0,0,Graduate,0.0,0.0,Rural,1,Very high,High
+445,1.0,1.0,1,Graduate,1.0,1.0,Rural,1,Average,Average
+446,1.0,1.0,2,Not Graduate,0.0,1.0,Rural,1,High,0
+447,1.0,1.0,0,Graduate,0.0,1.0,Rural,0,Average,Average
+448,1.0,1.0,2,Graduate,0.0,0.0,Rural,0,Average,Average
+449,1.0,0.0,1,Not Graduate,1.0,0.0,Semiurban,0,Average,Average
+450,1.0,1.0,2,Not Graduate,0.0,0.0,Rural,0,Low,Average
+451,1.0,1.0,2,Not Graduate,0.0,0.0,Urban,1,Low,Average
+452,1.0,1.0,0,Graduate,0.0,0.0,Rural,0,Average,Average
+453,1.0,1.0,0,Graduate,0.0,0.0,Rural,1,Low,Average
+454,1.0,0.0,0,Graduate,1.0,1.0,Semiurban,1,Very high,0
+455,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Average,0
+456,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,High,0
+457,1.0,1.0,0,Graduate,0.0,1.0,Urban,0,Average,Average
+458,1.0,0.0,2,Graduate,0.0,1.0,Rural,1,High,0
+459,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,0,Very high,0
+460,1.0,1.0,0,Graduate,1.0,0.0,Semiurban,1,Low,High
+461,1.0,1.0,3+,Graduate,0.0,1.0,Urban,1,Very high,0
+462,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+463,0.0,0.0,1,Not Graduate,0.0,1.0,Semiurban,1,High,0
+464,1.0,0.0,0,Graduate,0.0,0.0,Semiurban,0,High,0
+465,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,High,0
+466,1.0,1.0,3+,Not Graduate,0.0,0.0,Urban,0,Average,Average
+467,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,0
+468,0.0,1.0,2,Not Graduate,0.0,1.0,Semiurban,1,Low,Average
+469,1.0,1.0,0,Graduate,0.0,1.0,Urban,0,High,Average
+470,1.0,1.0,1,Graduate,1.0,1.0,Semiurban,1,Average,Average
+471,1.0,1.0,1,Not Graduate,0.0,0.0,Rural,0,Average,Average
+472,1.0,1.0,3+,Graduate,0.0,1.0,Semiurban,1,High,0
+473,0.0,0.0,0,Graduate,1.0,0.0,Urban,1,Low,0
+474,1.0,0.0,2,Graduate,0.0,1.0,Rural,1,High,High
+475,1.0,1.0,2,Graduate,1.0,1.0,Rural,1,Very high,Average
+476,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Very high,Average
+477,1.0,1.0,2,Graduate,0.0,0.0,Semiurban,0,Average,Average
+478,1.0,1.0,1,Graduate,1.0,1.0,Semiurban,1,Very high,Average
+479,1.0,1.0,2,Graduate,0.0,1.0,Urban,0,Average,Average
+480,0.0,0.0,0,Not Graduate,0.0,1.0,Rural,1,High,0
+481,1.0,1.0,3+,Not Graduate,0.0,1.0,Rural,1,Average,0
+482,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Low,High
+483,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Very high,0
+484,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Very high,0
+485,1.0,1.0,1,Not Graduate,0.0,1.0,Rural,1,Low,Average
+486,1.0,0.0,2,Graduate,0.0,0.0,Rural,0,Average,0
+487,1.0,1.0,1,Graduate,0.0,1.0,Urban,0,Very high,0
+488,1.0,1.0,2,Graduate,1.0,1.0,Semiurban,1,High,Average
+489,1.0,0.0,0,Graduate,0.0,1.0,Urban,0,Low,0
+490,1.0,0.0,0,Not Graduate,0.0,0.0,Semiurban,1,Average,Average
+491,1.0,1.0,1,Not Graduate,0.0,0.0,Urban,1,High,Average
+492,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,1,Average,0
+493,0.0,0.0,0,Not Graduate,1.0,1.0,Semiurban,1,Very high,0
+494,1.0,1.0,0,Graduate,0.0,0.0,Rural,0,Average,Average
+495,0.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Average,Low
+496,1.0,1.0,0,Not Graduate,0.0,1.0,Rural,1,Average,Average
+497,1.0,1.0,0,Graduate,0.0,0.0,Urban,1,High,Average
+498,1.0,1.0,1,Graduate,1.0,1.0,Semiurban,1,Average,0
+499,1.0,0.0,0,Graduate,0.0,0.0,Rural,0,Very high,High
+500,0.0,0.0,0,Graduate,0.0,1.0,Rural,1,Low,High
+501,0.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+502,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,High,High
+503,1.0,1.0,1,Not Graduate,0.0,0.0,Rural,0,High,High
+504,1.0,1.0,0,Not Graduate,0.0,1.0,Semiurban,1,Average,Average
+505,1.0,1.0,2,Graduate,0.0,1.0,Rural,1,Average,High
+506,1.0,1.0,0,Graduate,0.0,0.0,Urban,1,Very high,High
+507,1.0,0.0,0,Graduate,0.0,1.0,Urban,0,Average,0
+508,1.0,1.0,0,Graduate,1.0,1.0,Urban,1,Low,High
+509,0.0,0.0,1,Graduate,0.0,1.0,Urban,1,Very high,0
+510,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,0,Average,Average
+511,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Very high,Average
+512,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Average,Average
+513,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,0,Low,High
+514,1.0,0.0,0,Graduate,0.0,1.0,Rural,0,High,High
+515,1.0,1.0,3+,Graduate,0.0,1.0,Rural,1,Average,High
+516,0.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Low,Average
+517,1.0,1.0,0,Not Graduate,0.0,0.0,Semiurban,0,Average,Average
+518,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,0,High,Average
+519,0.0,0.0,0,Not Graduate,0.0,1.0,Rural,0,Average,0
+520,1.0,1.0,2,Not Graduate,0.0,1.0,Semiurban,1,Low,Average
+521,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,Low,0
+522,1.0,1.0,3+,Graduate,1.0,1.0,Rural,1,High,Average
+523,1.0,1.0,2,Graduate,1.0,1.0,Rural,1,Very high,High
+524,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,0,High,Average
+525,1.0,1.0,2,Graduate,1.0,1.0,Rural,1,Very high,0
+526,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+527,1.0,1.0,1,Not Graduate,0.0,0.0,Semiurban,1,High,Average
+528,1.0,0.0,1,Not Graduate,0.0,1.0,Semiurban,1,Average,Average
+529,1.0,0.0,0,Not Graduate,0.0,1.0,Semiurban,1,Very high,0
+530,1.0,1.0,0,Graduate,0.0,0.0,Rural,1,Low,High
+531,1.0,1.0,3+,Graduate,0.0,1.0,Urban,1,High,0
+532,1.0,0.0,2,Graduate,0.0,0.0,Rural,0,Average,0
+533,1.0,0.0,1,Graduate,0.0,0.0,Semiurban,0,Very high,0
+534,0.0,0.0,0,Not Graduate,1.0,1.0,Urban,1,Very high,0
+535,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,1,Average,Average
+536,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Very high,High
+537,1.0,0.0,2,Graduate,0.0,1.0,Semiurban,1,Average,0
+538,1.0,1.0,0,Not Graduate,0.0,1.0,Rural,0,Average,Low
+539,1.0,1.0,3+,Graduate,0.0,1.0,Rural,1,Very high,0
+540,0.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,High,Average
+541,0.0,0.0,0,Graduate,0.0,0.0,Semiurban,0,Low,0
+542,0.0,0.0,1,Graduate,0.0,1.0,Semiurban,1,Average,0
+543,1.0,1.0,1,Not Graduate,0.0,1.0,Urban,1,Low,Average
+544,0.0,1.0,0,Not Graduate,0.0,0.0,Semiurban,1,Average,Low
+545,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+546,1.0,0.0,0,Not Graduate,0.0,1.0,Semiurban,0,Average,0
+547,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+548,0.0,0.0,0,Graduate,0.0,0.0,Semiurban,0,High,0
+549,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+550,1.0,1.0,2,Graduate,1.0,0.0,Rural,0,Very high,0
+551,1.0,1.0,1,Not Graduate,0.0,1.0,Rural,1,Low,Average
+552,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Average,High
+553,1.0,1.0,0,Not Graduate,0.0,0.0,Urban,0,Low,Average
+554,1.0,1.0,0,Graduate,0.0,0.0,Rural,0,Average,High
+555,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,High,Average
+556,0.0,0.0,0,Graduate,0.0,0.0,Urban,1,Average,Average
+557,1.0,1.0,3+,Graduate,1.0,1.0,Semiurban,1,Very high,0
+558,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,Average
+559,0.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,High,Average
+560,1.0,1.0,2,Not Graduate,0.0,1.0,Semiurban,1,Average,Low
+561,0.0,1.0,1,Graduate,1.0,1.0,Semiurban,1,Very high,0
+562,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,High,Average
+563,1.0,0.0,0,Not Graduate,1.0,1.0,Semiurban,1,High,0
+564,1.0,1.0,2,Graduate,0.0,0.0,Urban,0,Very high,0
+565,1.0,1.0,0,Not Graduate,0.0,0.0,Rural,1,High,0
+566,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,0
+567,1.0,1.0,3+,Graduate,0.0,0.0,Rural,0,Average,Average
+568,0.0,0.0,0,Graduate,0.0,1.0,Urban,0,Low,0
+569,1.0,1.0,0,Graduate,0.0,0.0,Urban,0,Average,Average
+570,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Average,Average
+571,1.0,1.0,0,Graduate,0.0,0.0,Urban,0,High,Average
+572,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Very high,0
+573,1.0,1.0,2,Not Graduate,0.0,1.0,Semiurban,0,Very high,Average
+574,1.0,1.0,3+,Graduate,0.0,1.0,Semiurban,0,Very high,0
+575,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Average,Low
+576,1.0,1.0,0,Graduate,0.0,0.0,Semiurban,0,Average,Average
+577,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,Average
+578,1.0,1.0,1,Graduate,0.0,1.0,Rural,1,Low,Average
+579,1.0,0.0,0,Graduate,0.0,1.0,Urban,1,Average,Average
+580,1.0,1.0,2,Graduate,0.0,1.0,Semiurban,1,Very high,0
+581,1.0,0.0,0,Graduate,0.0,1.0,Urban,0,Low,High
+582,0.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,0
+583,1.0,1.0,1,Graduate,0.0,0.0,Rural,0,Low,0
+584,1.0,1.0,1,Graduate,0.0,0.0,Rural,0,Average,Average
+585,1.0,1.0,1,Graduate,0.0,1.0,Rural,0,High,Average
+586,1.0,1.0,0,Graduate,0.0,1.0,Urban,1,Low,Average
+587,0.0,0.0,0,Not Graduate,0.0,1.0,Semiurban,1,Low,0
+588,1.0,0.0,0,Graduate,0.0,1.0,Semiurban,1,High,0
+589,1.0,1.0,2,Graduate,1.0,0.0,Semiurban,0,Average,0
+590,1.0,1.0,0,Graduate,0.0,1.0,Semiurban,1,Average,High
+591,1.0,1.0,2,Graduate,1.0,1.0,Semiurban,0,High,0
+592,1.0,0.0,3+,Graduate,1.0,1.0,Semiurban,1,Very high,0
+593,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,High
+594,1.0,1.0,0,Graduate,1.0,1.0,Urban,1,Very high,0
+595,1.0,0.0,0,Not Graduate,0.0,1.0,Rural,1,Average,0
+596,1.0,1.0,2,Not Graduate,1.0,1.0,Rural,0,Very high,Low
+597,1.0,0.0,0,Graduate,0.0,0.0,Semiurban,0,Average,0
+598,1.0,1.0,0,Graduate,1.0,1.0,Rural,1,Very high,0
+599,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,High,0
+600,0.0,0.0,3+,Graduate,0.0,0.0,Urban,0,Low,High
+601,1.0,1.0,0,Not Graduate,0.0,1.0,Rural,1,Average,Average
+602,1.0,1.0,3+,Graduate,0.0,1.0,Urban,1,High,0
+603,1.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,High
+604,0.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Very high,0
+605,1.0,1.0,0,Not Graduate,0.0,1.0,Urban,0,Low,High
+606,1.0,1.0,1,Graduate,0.0,1.0,Semiurban,1,Average,Average
+607,1.0,1.0,2,Not Graduate,0.0,1.0,Rural,1,Average,Average
+608,1.0,1.0,0,Graduate,0.0,1.0,Rural,1,Average,Average
+609,0.0,0.0,0,Graduate,0.0,1.0,Rural,1,Average,0
+610,1.0,1.0,3+,Graduate,0.0,1.0,Rural,1,High,0
+611,1.0,1.0,1,Graduate,0.0,1.0,Urban,1,Very high,Low
+612,1.0,1.0,2,Graduate,0.0,1.0,Urban,1,Very high,0
+613,0.0,0.0,0,Graduate,1.0,0.0,Semiurban,0,High,0
